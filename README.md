@@ -1,4 +1,6 @@
-#Generative-AI-for-Synthetic-Data-Generation-Project-5
+#Generative-AI-for-Synthetic-Data-Generation--Project-5
+
+
 Project:
 Generative AI for Synthetic Data Generation & Analytics( Healthcare data)
 
