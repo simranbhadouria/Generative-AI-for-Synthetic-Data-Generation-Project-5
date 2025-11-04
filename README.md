@@ -1,3 +1,4 @@
+#Generative AI for Synthetic Data Generation & Analytics
 Project:
 Generative AI for Synthetic Data Generation & Analytics( Healthcare data)
 
